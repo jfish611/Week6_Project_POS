@@ -1,0 +1,12 @@
+C:\Users\jfish\source\repos\Week6_Project_POS\Point_Of_Sale\bin\Debug\netcoreapp3.1\Point_Of_Sale.exe
+C:\Users\jfish\source\repos\Week6_Project_POS\Point_Of_Sale\bin\Debug\netcoreapp3.1\Point_Of_Sale.deps.json
+C:\Users\jfish\source\repos\Week6_Project_POS\Point_Of_Sale\bin\Debug\netcoreapp3.1\Point_Of_Sale.runtimeconfig.json
+C:\Users\jfish\source\repos\Week6_Project_POS\Point_Of_Sale\bin\Debug\netcoreapp3.1\Point_Of_Sale.runtimeconfig.dev.json
+C:\Users\jfish\source\repos\Week6_Project_POS\Point_Of_Sale\bin\Debug\netcoreapp3.1\Point_Of_Sale.dll
+C:\Users\jfish\source\repos\Week6_Project_POS\Point_Of_Sale\bin\Debug\netcoreapp3.1\Point_Of_Sale.pdb
+C:\Users\jfish\source\repos\Week6_Project_POS\Point_Of_Sale\obj\Debug\netcoreapp3.1\Point_Of_Sale.AssemblyInfoInputs.cache
+C:\Users\jfish\source\repos\Week6_Project_POS\Point_Of_Sale\obj\Debug\netcoreapp3.1\Point_Of_Sale.AssemblyInfo.cs
+C:\Users\jfish\source\repos\Week6_Project_POS\Point_Of_Sale\obj\Debug\netcoreapp3.1\Point_Of_Sale.dll
+C:\Users\jfish\source\repos\Week6_Project_POS\Point_Of_Sale\obj\Debug\netcoreapp3.1\Point_Of_Sale.pdb
+C:\Users\jfish\source\repos\Week6_Project_POS\Point_Of_Sale\bin\Debug\netcoreapp3.1\menuItems.txt
+C:\Users\jfish\source\repos\Week6_Project_POS\Point_Of_Sale\obj\Debug\netcoreapp3.1\Point_Of_Sale.csprojAssemblyReference.cache

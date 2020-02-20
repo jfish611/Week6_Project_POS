@@ -1,0 +1,12 @@
+﻿ShackBurger;Burgers;Cheeseburger topped with lettuce, tomato, and shack sauce;5.59
+SmokeShack;Burgers;Smokey burger topped with bacon and cherry peppers;7.80
+ShroomBurger;Burgers;Mushroom and swiss and your choice of lettuce, tomato;9.80
+Coke;Drink;Refreshing soda;1.50
+Sprite;Drink;Refreshing soda;1.50
+Lemondade;Drink;Refreshing drink;1.50
+Chicken Tenders;Chicken;Fried chicken;4.50
+Chicken Dogg;Chicken;Chicken sausage with sage and apple;3.50
+Waffle Fries;Sides;Fries shaped like a waffle;2.50
+Cheese Fries;Sides;Fries topped with cheese;5.50
+Curly Fries;Sides;Fries that are curly;4.50
+Cole Slaw;Sides;Momma's recipe;3.50
